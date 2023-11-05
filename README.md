@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissWhiskers
 - 👀 I’m interested in getting refreshed with coding becuase of my bad memory.
-- 🌱 I’m currently learning at home on linix/windows based systems with java, HTML, c, and css 
+- 🌱 I’m currently learning at home on linix/windows based systems with java, HTML, python, c, and css 
 - 💞️ I’m looking to collaborate on software, websites, anything with the flipper and anything homelab related
 - 📫 Reach me by my discord directly @ MissWiskers#7744
 
